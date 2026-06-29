@@ -1,0 +1,35 @@
+{
+  "version": "v5.6-github-v14",
+  "cards": 328,
+  "article_dictionary_entries": 337,
+  "new_features": [
+    "論文答案化フレーム",
+    "論文対策モード",
+    "落とし穴チェック"
+  ],
+  "generated_at": "2026-06-29T06:07:46",
+  "subject_audit_progress": [
+    "民法",
+    "民事実務",
+    "刑事実務",
+    "商法",
+    "民訴",
+    "刑法",
+    "刑訴",
+    "憲法",
+    "行政法",
+    "国際関係法〔私法系〕"
+  ],
+  "subject_audit_complete": true,
+  "icon_build": true,
+  "icon_source": "/mnt/data/ghostwriter_images/generated/cute_whimsical_watercolor_illustration_a_simple_o_1.png",
+  "icon_files": [
+    "assets/icons/favicon.ico",
+    "assets/icons/icon-16.png",
+    "assets/icons/icon-32.png",
+    "assets/icons/icon-180.png",
+    "assets/icons/icon-192.png",
+    "assets/icons/icon-512.png",
+    "assets/icons/frog-scale-icon-1024.png"
+  ]
+}
